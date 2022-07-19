@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = liugangqiang.pku@gmail.com
+	name = KURT LIU
